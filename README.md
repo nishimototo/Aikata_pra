@@ -13,7 +13,8 @@
 
 ### ターゲットユーザ
 ・お笑いの相方を探している方<br>
-・お笑い好きな友人が欲しい方
+・お笑い好きな友人が欲しい方<br>
+・大喜利を楽しみたい方
 
 ### 主な利用シーン
 ・お笑いの相方を探す<br>
@@ -21,7 +22,7 @@
 ・気軽に大喜利を楽しみたい
 
 ## 設計書
-<...>
+<a href="https://app.diagrams.net/#G1iXP--5OBg0bCfUHuVh7jrH0eMYck4NPb">ER図はこちら</a>
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1cm9OB9tUK_2UtpwkVAx2SGtaBqLE9yh0PnGM8VZshbQ/edit#gid=0
